@@ -7848,7 +7848,7 @@ cis HNNO
 
 entry(
     index = 449,
-    label = "CH3 + NH2 <=> CH2 + NH3",
+    label = "CH3 + NH2 <=> CH2(T) + NH3",
     degeneracy = 1,
     kinetics = Arrhenius(
         A = (2.12604820E-01, 'cm^3/(mol*s)'),
